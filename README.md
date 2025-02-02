@@ -2,3 +2,5 @@
 **C/C++**  
 **Python**  
 **Java**  
+**rust**  
+
